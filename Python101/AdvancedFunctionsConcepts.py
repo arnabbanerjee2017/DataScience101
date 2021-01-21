@@ -1,7 +1,7 @@
 # Advanced Function Concepts.
 
 # Recursion.
-def my_sum(my_list):  # The paramter will only take numbers otherwise raise exception.
+def my_sum(my_list):  # The parameter will only take numbers otherwise raise exception.
     print(my_list)
     if not my_list:
         return 0
