@@ -1,7 +1,7 @@
 # Introducing Classes and Object Oriented Programming.
 class Dog():
     # A simple Dog class.
-    def __init__(self, name, age):
+    def __init__(self, name, age):  # This is the init method or the constructor.
         self.name = name
         self.age = age
 
